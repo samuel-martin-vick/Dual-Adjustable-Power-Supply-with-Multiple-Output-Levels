@@ -1,8 +1,8 @@
 # Dual-Adjustable-Power-Supply-with-Multiple-Output-Levels (June 2025)
 Project from Electronics 1 Class
-•	Designed PCB layout in Altium based on a provided schematic.
-•	Soldered through hole components onto the PCB.
-•	Powered final product with 120V AC and tested seven voltage outputs with an oscilloscope.
+- Designed the PCB layout in Altium based on a provided schematic.
+- Soldered through hole components onto the PCB.
+- Powered final product with 120V AC and tested seven voltage outputs with an oscilloscope.
 
 This board takes a 120V AC input and uses several linear regulators (and one op amp) to create seven output voltage levels:
 - 1.5V to 9V adjustable
