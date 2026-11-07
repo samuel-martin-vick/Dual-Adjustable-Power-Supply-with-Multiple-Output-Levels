@@ -5,13 +5,13 @@ Project from Electronics 1 Class
 •	Powered final product with 120V AC and tested seven voltage outputs with an oscilloscope.
 
 This board takes a 120V AC input and uses several linear regulators (and one op amp) to create seven output voltage levels:
--1.5~9V
--+12V
--+5V
--0~10V
--0V
---12V
---1.5~-9V
+- 1.5V to 9V adjustable
+- +12V
+- +5V
+- 0V to 10V adjustable
+- 0V
+- -12V
+- -1.5V to -9V adjustable
 
 
 Final PCB:
