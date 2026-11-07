@@ -17,5 +17,9 @@ This board takes a 120V AC input and uses several linear regulators (and one op 
 Final PCB:
 <img width="2357" height="1805" alt="IMG_20250604_095112683" src="https://github.com/user-attachments/assets/e52f9fb8-6ea4-4610-834f-6485fc4e33d8" />
 
+Altium Trace Design:
+<img width="973" height="850" alt="image" src="https://github.com/user-attachments/assets/6836b285-0987-437d-a166-1aa7041cadae" />
+
+
 Breadboard Test:
 <img width="3408" height="2618" alt="IMG_20250521_164523895_HDR" src="https://github.com/user-attachments/assets/168250bb-1250-401b-8180-3c5ed7347547" />
